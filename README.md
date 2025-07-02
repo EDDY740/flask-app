@@ -1,0 +1,1 @@
+My first projects as a Learner in  Devops Engineering. A simple flask application containerize using docker following best practices by defining accurately the requirement.txt file and also remembering not to commi my venv folder
